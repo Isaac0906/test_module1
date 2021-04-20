@@ -1,0 +1,11 @@
+{
+    "name": "com.111percent.submodule1",
+    "version": "0.1.0",
+    "unity": "2020.3",
+    "displayName": "Submodule1",
+    "description": "This is test submodule for package manager test",
+    "keywords":["submodule", "submodule1"],
+    "repository": {
+        
+    }
+}
